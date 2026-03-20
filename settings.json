@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK BOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "PipkaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "armor.playserver.pro",
+    "port": 28091,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "51307"
     },
     "anti-afk": {
       "enabled": true,
