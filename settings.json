@@ -1,13 +1,13 @@
 {
-  "name": "AFK BOT",
+  "name": "toche no",
   "bot-account": {
     "username": "PipkaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "armor.playserver.pro",
-    "port": 28091,
+    "ip": "=Family-6k6D.aternos.me:14256",
+    "port": 14256,
     "version": "",
     "try-creative": false
   },
